@@ -1,0 +1,23 @@
+body{
+	padding-top: 5%;
+	background-color: #5cb85c;
+
+}
+
+.jumbotron{
+	/*padding: 1%;*/
+	background-color:peru;
+	color: #ffffff;
+}
+
+#animals-buttons{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
+
+
+
+
